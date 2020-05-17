@@ -1,9 +1,9 @@
-.. example-pkg-rksin8 documentation master file, created by
-   sphinx-quickstart on Mon May 18 02:58:06 2020.
+.. packaging_tutorial documentation master file, created by
+   sphinx-quickstart on Mon May 18 03:12:15 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to example-pkg-rksin8's documentation!
+Welcome to packaging_tutorial's documentation!
 ==============================================
 
 .. toctree::

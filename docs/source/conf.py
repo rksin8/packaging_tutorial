@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'example-pkg-rksin8'
+project = 'packaging_tutorial'
 copyright = '2020, Ranjeet'
 author = 'Ranjeet'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
